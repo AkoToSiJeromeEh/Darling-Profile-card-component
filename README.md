@@ -1,7 +1,7 @@
 🔥 Darling-Profile-card-component
 
 
-🚀Profile card component - Challenge
+🚀Profile card component - Frontend Mentor Challenge
 
 Hi everyone im just wanna Share my Work which is A profile card Component 
 that is one of the challenge on website frontend Mentor that is really
